@@ -1,0 +1,26 @@
+/*Login Page Start
+*/
+
+.mainContainer{
+	margin-top: 50px;
+}
+
+/*Login Page End
+*/
+
+/*Request Page Start
+*/
+
+.align-label{
+	vertical-align: -webkit-baseline-middle;
+}
+
+
+.map_canvas { 
+  width: 300px; 
+  height: 300px; 
+  margin: 10px 20px 10px 0;
+}
+
+/*Request Page End
+*/
